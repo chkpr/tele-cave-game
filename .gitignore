@@ -1,0 +1,10 @@
+# Maven
+target/
+
+#Secrets
+src/main/resources/application-secret.properties
+
+#Eclipse
+.classpath
+.project
+.settings/
