@@ -43,7 +43,7 @@ public class GameController {
 		case "2" -> """
 				<Response>
 					<Say language="fr-FR">
-						En voulant contourner la falaise, vous faites tomber un galet dans le point d'eau au bord du chemin. Une tentacule sort de l'eau et vous attrape la cheville. Pour vous enfuir, tapez 1. Pour affronter le monstre tentaculaire, tapez 2.
+						En voulant contourner la falaise, vous faites tomber un galet dans le point d'eau au bord du chemin. Un tentacule sort de l'eau et vous attrape la cheville. Pour vous enfuir, tapez 1. Pour affronter le monstre tentaculaire, tapez 2.
 					</Say>
 					<Redirect method="POST">/enter</Redirect>
 				</Response>
